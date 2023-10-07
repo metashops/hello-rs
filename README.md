@@ -1,0 +1,2 @@
+# hello-rs
+learn Rust
