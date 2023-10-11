@@ -1,5 +1,13 @@
 # hello-rs
 
+聚焦：
+
+- 虚拟化方向
+- 云原生
+- 结合 AI
+
+愿景：让开源的力量、推动科技创新。
+
 Rust learning reference
 
 - 官网学习 [rust-lang](https://www.rust-lang.org/learn)
